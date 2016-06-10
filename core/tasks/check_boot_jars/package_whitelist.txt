@@ -95,6 +95,8 @@ libcore\..*
 android\..*
 com\.android\..*
 
+co\.tanvas\..*
+
 
 ###################################################
 # core-junit.jar
